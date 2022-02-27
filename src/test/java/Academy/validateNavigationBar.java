@@ -20,6 +20,8 @@ import resources.base;
 //Generating html reports
 //Screenshots on failure
 //JEnkins integration
+//This is an update
+
 public class validateNavigationBar extends base{
 	public WebDriver driver;
 	
